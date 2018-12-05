@@ -1,7 +1,7 @@
 
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
 
-[[embed url=https://youtu.be/GtP1EaPzRrM]]
+[[embed url=http://www.youtube.com/watch?v=GtP1EaPzRrM]]
 
 
 ***
