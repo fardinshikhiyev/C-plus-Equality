@@ -1,7 +1,9 @@
 
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
 
-<iframe src="https://www.youtube.com/embed/GtP1EaPzRrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"> </iframe>
+
+[![](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=GtP1EaPzRrM "Click")
+
 
 
 ***
